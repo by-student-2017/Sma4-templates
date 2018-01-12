@@ -1,4 +1,4 @@
-Sma4　下記に従えば必要となる基本が分かる　
+下記に従えば必要となる基本が分かる　
 
 Usage: http://www.opt.tokushima-u.ac.jp/lab/a-3/hashimoto/files/C16_Sma4_Win_02.pdf
 
